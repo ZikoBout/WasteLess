@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086872620765",
+    "firebase_url": "https://wasteless-fe553-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wasteless-fe553",
+    "storage_bucket": "wasteless-fe553.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086872620765:android:c05fdd58424f97f6fb1534",
+        "android_client_info": {
+          "package_name": "com.example.wasteless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086872620765-i4mifkmjh215s1tl67rug6327tb6oi4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wasteless",
+            "certificate_hash": "5dbba4ffe457d5899fbbaedcc9b0767a375db8c6"
+          }
+        },
+        {
+          "client_id": "1086872620765-b6s7s23htl15vqftrhjsfnv914belvom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQc7Ec0MeO9HJKTinxKUo2rT6HhGAF9FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086872620765-b6s7s23htl15vqftrhjsfnv914belvom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
